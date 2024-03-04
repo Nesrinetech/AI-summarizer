@@ -12,7 +12,7 @@ const Hero = () => {
       </nav>
 
       <h1 className='head_text'>
-        <span className='purple_gradient'>Nesrine's AI summarizer</span>
+        <span className='purple_gradient'>Nesrine's AI summarizer</span><br></br>
         <br className='max-md:hidden' />
         <span className='purple_gradient'>Your tool for quick summaries.</span>
       </h1>
