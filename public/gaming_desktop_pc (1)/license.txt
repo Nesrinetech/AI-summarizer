@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gaming Desktop Pc
+* source:	https://sketchfab.com/3d-models/gaming-desktop-pc-ac05f4b0a3174fb4bab60caa2877f6d5
+* author:	rich.kid.daron (https://sketchfab.com/daron.jones)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gaming Desktop Pc" (https://sketchfab.com/3d-models/gaming-desktop-pc-ac05f4b0a3174fb4bab60caa2877f6d5) by rich.kid.daron (https://sketchfab.com/daron.jones) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
