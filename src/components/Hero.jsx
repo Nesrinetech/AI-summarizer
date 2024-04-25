@@ -12,12 +12,12 @@ const Hero = () => {
       </nav>
 
       <h1 className='head_text'>
-        <span className='purple_gradient'>Sumlify <br></br>Your best tool </span><br></br>
+        <span className='purple_gradient'>Your best tool </span><br></br>
         
-        <span className='purple_gradient'>for quick summaries.</span>
+        <span className='purple_gradient'>for quick summaries!</span>
       </h1>
       <h2 className='desc'>
-        Simplify your reading! Just paste an article or webpage link, and let the app create concise summaries for quick understanding.
+        Just paste an article or webpage link, and let the app create concise summaries for you.
       </h2>
 
       <ComputersCanvas />
